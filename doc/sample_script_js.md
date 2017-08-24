@@ -15,7 +15,7 @@ $(function () {
 
         // Emotion API の Subscription Key をセット
         // お持ちの Subscription Key をコピーしてください
-        var subscriptionKey = "53625671b85a482f879df265b2d7511c";
+        var subscriptionKey = "key";
 
         // 画像 URL をセット
         var imageUrl = $("#imageUrlTextbox").val();
